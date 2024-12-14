@@ -1,4 +1,4 @@
-# Graph Neural Network for HR Analytics
+# Automated HR Analytics using AI Agents and Graph Neural Network
 
 ## What is a Graph Neural Network (GNN)?
 
