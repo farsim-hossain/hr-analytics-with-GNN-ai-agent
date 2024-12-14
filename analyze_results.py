@@ -90,9 +90,9 @@ class PerformanceAnalyzer:
 
 def main():
     # Neo4j cloud credentials
-    URI = "neo4j+s://522e63e9.databases.neo4j.io"
-    USERNAME = "neo4j"
-    PASSWORD = "z7BR2qxJJbfxUvCiCTk1CqX9ED_jpBplZn8xd0ZXpuM"
+    URI = "neo4j uri"
+    USERNAME = ""
+    PASSWORD = ""
     
     analyzer = PerformanceAnalyzer(URI, USERNAME, PASSWORD)
     
