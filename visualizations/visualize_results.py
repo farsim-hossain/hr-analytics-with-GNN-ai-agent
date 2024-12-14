@@ -68,9 +68,9 @@ class NetworkVisualizer:
         return dot
 
 def main():
-    URI = "neo4j+s://522e63e9.databases.neo4j.io"
-    USERNAME = "neo4j"
-    PASSWORD = "z7BR2qxJJbfxUvCiCTk1CqX9ED_jpBplZn8xd0ZXpuM"
+    URI = "neo4j uri"
+    USERNAME = ""
+    PASSWORD = ""
     
     visualizer = NetworkVisualizer(URI, USERNAME, PASSWORD)
     
