@@ -168,3 +168,7 @@ This creates opportunities for knowledge transfer and performance improvement.
 
 - Provides overall **team health indicators**.
 - Supports **strategic team restructuring decisions**.
+
+## Intelligent Agents Network
+
+Along with manual intervention, our system includes intelligent agents that can perform employee performance analysis and provide recommendations. These agents pull the data from the graph database, uses the GNN model to predict performance, and then provides recommendations based on the analysis.
